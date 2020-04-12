@@ -1,2 +1,2 @@
 # SLI
-Sign Language Translator
+Sign Language Interpreter
